@@ -8,30 +8,29 @@ body {
 }
 
 .content {
-    width: 180px;
-    height: 308px;
+    width: 200px;
+    height: 328px;
     margin: 5% 45%;
-    padding: 20px 20px;
+    padding: 10px 10px;
     border-radius: 9px;
     background: hsl(0, 0%, 100%);
     
 }
 
 img {
-    width: 200px;
-    margin: -12px -10px;
+    width: 100%;
     border-radius: 9px;
 }
 
 .p1 {
-    padding: 0 0;
-    margin-top: 24px;
+    margin: 14px 1px; 
     font-weight: 700;
-    font-size: 15px;
+    font-size: 16px;
+    
 }
 
 .p2 {
-    margin: 0 -7px;
+    margin: 0 3px;
     font-weight: 400;
     font-size: 11px;
     color: hsl(220, 15%, 55%);
