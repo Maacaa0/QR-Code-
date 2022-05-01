@@ -1,18 +1,16 @@
-
-
 body {
     text-align: center;
     width: 100%;
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
-    margin: 15% auto;
-    padding: 0 auto;
+    margin: 0 auto;
+    
 }
 
 .content {
     width: 180px;
     height: 308px;
-    margin: 38px 600px;
+    margin: 5% 45%;
     padding: 20px 20px;
     border-radius: 9px;
     background: hsl(0, 0%, 100%);
