@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    width: 100%;
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
     margin: 0 auto;
@@ -8,10 +7,10 @@ body {
 }
 
 .content {
-    width: 200px;
-    height: 328px;
+    width: 300px;
+    height: 465px;
     margin: 5% auto;
-    padding: 10px 10px;
+    padding: 15px 15px;
     border-radius: 9px;
     background: hsl(0, 0%, 100%);
     
@@ -23,16 +22,16 @@ img {
 }
 
 .p1 {
-    margin: 14px 1px; 
+    margin: 14px 19px; 
     font-weight: 700;
-    font-size: 16px;
+    font-size: 20px;
     
 }
 
 .p2 {
-    margin: 0 3px;
+    margin: 0 18px;
     font-weight: 400;
-    font-size: 11px;
+    font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
 
