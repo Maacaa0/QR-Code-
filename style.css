@@ -10,7 +10,7 @@ body {
 .content {
     width: 200px;
     height: 328px;
-    margin: 5% 45%;
+    margin: 5% auto;
     padding: 10px 10px;
     border-radius: 9px;
     background: hsl(0, 0%, 100%);
