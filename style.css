@@ -11,7 +11,7 @@ body {
 }
 
 .content {
-    width: 290px;
+    width: 320px;
     background: white;
     border-radius: 18px;
     box-shadow: hsl(212deg 45% 83%) 0px 18px 23px;
@@ -36,14 +36,14 @@ body {
 h1 {
     text-align: center;
     color: hsl(218, 44%, 22%);
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
-    margin: 3% 6%;
+    padding: 0 9%;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     text-align: center;
-    padding: 0 9% 12%;
-    font-size: 14px;
+    padding: 0 12% 5%;
+    font-size: 15px;
 }
