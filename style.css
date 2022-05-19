@@ -1,13 +1,17 @@
 body {
-    margin: 0 auto;
     font-family: 'Outfit', sans-serif;
     background: hsl(212, 45%, 89%);
+    
     -webkit-font-smoothing: antialiased;
+    
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .content {
     width: 290px;
-    margin: 10% auto;
     background: white;
     border-radius: 18px;
     box-shadow: hsl(212deg 45% 83%) 0px 18px 23px;
